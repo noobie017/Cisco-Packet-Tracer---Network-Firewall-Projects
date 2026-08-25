@@ -25,3 +25,8 @@ The rule allows RDP connections only from the lab network (`192.168.10.0/24`) an
    Under Remote IP addresses, select These IP addresses
    Add: 192.168.10.0/24
 
+Results Status: Successful Successfully created an inbound firewall rule restricting RDP access.
+Verified that connections from the lab network are allowed.
+Confirmed that the rule limits exposure of the RDP service.
+
+
