@@ -9,7 +9,7 @@ This lab demonstrates how to create outbound firewall rules on a Windows 10 endp
 
 - **Target Machine:** Windows 10 Workstation (`192.168.10.9`)
 - **Domain:** ADPRO
-- **Objective:** Restrict outbound internet access from PowerShell and Command Prompt
+- **Objective:** Restrict outbound internet access from PowerShell and Command Prompt    
 
 ---
 
