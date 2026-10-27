@@ -12,9 +12,9 @@ Each project demonstrates different ways to implement firewall rules using both 
 2. **ASA Basic Firewall** (`asa-basic-firewall`) ← **Current Project**  
    Cisco ASA 5505 configured with security levels, VLAN interfaces, and NAT/PAT.
 
-(You can add more projects later: DMZ, Zone-Based Firewall, Site-to-Site VPN, etc.)
+(.................)
 
-![ASA Basic Firewall Topology](screenshots/asa-basic-topology.png)
+
 
 ## 🎯 Learning Objectives
 
